@@ -1,0 +1,16 @@
+C:\Users\gabri\Desktop\.Net\PrioridadeAtividades\Prioridadeatividades\Prioridadeatividades\bin\Debug\Prioridadeatividades.exe.config
+C:\Users\gabri\Desktop\.Net\PrioridadeAtividades\Prioridadeatividades\Prioridadeatividades\bin\Debug\Prioridadeatividades.exe
+C:\Users\gabri\Desktop\.Net\PrioridadeAtividades\Prioridadeatividades\Prioridadeatividades\bin\Debug\Prioridadeatividades.pdb
+C:\Users\gabri\Desktop\.Net\PrioridadeAtividades\Prioridadeatividades\Prioridadeatividades\bin\Debug\Prioridadeatividades.xml
+C:\Users\gabri\Desktop\.Net\PrioridadeAtividades\Prioridadeatividades\Prioridadeatividades\obj\Debug\Prioridadeatividades.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\.Net\PrioridadeAtividades\Prioridadeatividades\Prioridadeatividades\obj\Debug\Prioridadeatividades.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Desktop\.Net\PrioridadeAtividades\Prioridadeatividades\Prioridadeatividades\obj\Debug\Prioridadeatividades.Form1.resources
+C:\Users\gabri\Desktop\.Net\PrioridadeAtividades\Prioridadeatividades\Prioridadeatividades\obj\Debug\Prioridadeatividades.Resources.resources
+C:\Users\gabri\Desktop\.Net\PrioridadeAtividades\Prioridadeatividades\Prioridadeatividades\obj\Debug\Prioridadeatividades.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\.Net\PrioridadeAtividades\Prioridadeatividades\Prioridadeatividades\obj\Debug\Prioridadeatividades.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\.Net\PrioridadeAtividades\Prioridadeatividades\Prioridadeatividades\obj\Debug\Prioridadeatividades.exe
+C:\Users\gabri\Desktop\.Net\PrioridadeAtividades\Prioridadeatividades\Prioridadeatividades\obj\Debug\Prioridadeatividades.xml
+C:\Users\gabri\Desktop\.Net\PrioridadeAtividades\Prioridadeatividades\Prioridadeatividades\obj\Debug\Prioridadeatividades.pdb
+C:\Users\gabri\Desktop\.Net\PrioridadeAtividades\Prioridadeatividades\Prioridadeatividades\bin\Debug\System.Data.SqlClient.dll
+C:\Users\gabri\Desktop\.Net\PrioridadeAtividades\Prioridadeatividades\Prioridadeatividades\bin\Debug\System.Data.SqlClient.xml
+C:\Users\gabri\Desktop\.Net\PrioridadeAtividades\Prioridadeatividades\Prioridadeatividades\obj\Debug\Prioridadeatividades.vbproj.CopyComplete
